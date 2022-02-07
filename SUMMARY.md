@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Study Hard and Be Happy!](README.md)
+* [Page 1](README.md)
 
 ## Probabilistic Machine Learning
 
